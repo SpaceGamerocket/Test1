@@ -1,1 +1,1 @@
-This should result in a conflict soon
+This should result in a conflict never
